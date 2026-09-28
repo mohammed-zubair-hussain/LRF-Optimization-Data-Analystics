@@ -320,6 +320,8 @@ This makes it possible to identify which validation rules produced invalid recor
 
 Data Analytics Student
 
+🔗 [GitHub Profile](https://github.com/mohammed-zubair-hussain)
+
 ---
 
 ## 📜 Note
