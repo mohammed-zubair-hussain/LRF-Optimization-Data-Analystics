@@ -12,6 +12,28 @@ The objective is to validate the quality and consistency of LRF process data, st
 
 ---
 
+## 📊 Dashboard Preview
+
+### LRF Overview
+
+![LRF Overview](Documentation/PowerBI_Overview.png)
+
+### Cycle & Heat Analysis
+
+![Cycle & Heat Analysis](Documentation/PowerBI_Cycle_Heat_Analysis.png)
+
+### Temperature & Energy
+
+![Temperature & Energy](Documentation/PowerBI_Temperature_Energy.png)
+
+### Quality & Yield
+
+![Quality & Yield](Documentation/PowerBI_Quality_Yield.png)
+
+
+
+---
+
 ## 🎯 Project Objectives
 
 * Validate LRF transaction data using Python.
@@ -77,7 +99,13 @@ The validation framework includes checks such as:
 * Heat-status validation
 * First-pass validation
 
-The final validation summary reports the number of invalid records identified across the validation rules.
+The final validation summary reports the number of invalid records identified across the validation rules. 
+
+### 📋 Validation Report
+
+The Python validation framework checks 26 business rules (R01–R26) across the LRF dataset.
+
+![LRF Data Validation Report](Documentation/LRF_Data_Validation_Report.png)
 
 ---
 
